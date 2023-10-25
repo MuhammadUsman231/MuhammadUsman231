@@ -47,7 +47,7 @@ A Data Science enthusiast Specializes in building machine learning models and an
 >## Github Stats  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="35" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/Pyhton/R?username=MuhammadUsman231&show_icons=true&locale=en&layout=compact&langs_count=2&exclude_repo=repo-name-to-exclude" alt="MuhammadUsman231" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/python/top-langs?username=MuhammadUsman231&show_icons=true&locale=en&layout=compact&langs_count=2&exclude_repo=repo-name-to-exclude" alt="MuhammadUsman231" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUsman231" alt="MuhammadUsman231" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
